@@ -1,0 +1,14 @@
+name: HealPlugin
+main: MineJonas\Heal\Main
+author: MineJonas
+version: 1.0.0
+api: [3.0.0,4.0.0]
+website:
+
+commands:
+  Heal:
+   description: "Heile dich selber.!"
+   permissions: heal.use
+ permissions:
+   heal.use:
+    default: op
