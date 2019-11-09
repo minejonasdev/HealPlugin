@@ -1,0 +1,6 @@
+1.Navigiere zu deinem Plugin Ordner.
+2.Erstelle einen Ordner nahmens HealPlugin.
+3.In diesem Ordner kopierst du die plugin.yml
+4.Und erstellst einen Ordner in dem  HealPlugin Ordner nahmens src.
+5.Im Ordner src erstellst du einen Ordner nahmens MineJonas.
+6.In diesem MineJonas Ordner kopierst du die Datei MainClass.php.
